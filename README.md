@@ -19,12 +19,6 @@ This app fetches real-time weather data from **OpenWeatherMap** and provides a b
 
 ---
 
-## 📸 Preview
-
-*(Add a screenshot or GIF of your dashboard here if possible)*
-
----
-
 ## 🛠️ Tech Stack
 
 * **Frontend**: HTML5, CSS3, TailwindCSS, Vanilla JavaScript
